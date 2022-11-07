@@ -1,0 +1,19 @@
+{
+  "name": "module_vue2",
+  "version": "1.0.0",
+  "description": "# Vue webpack3 + TS ：分支 relase@3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwpersonal/module_Vue2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwpersonal/module_Vue2/issues"
+  },
+  "homepage": "https://github.com/lwpersonal/module_Vue2#readme"
+}

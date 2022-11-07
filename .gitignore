@@ -25,6 +25,35 @@ yarn-error.log*
 *.njsproj
 *.sln
 
+<<<<<<< HEAD
+=======
+# config
+config/config.js
+package-lock.json
+
+# README.md
+\!*.md
+
+# dev
+bower_components
+.happypack
+.DS_Store
+node_modules/
+/dist/
+/public/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+>>>>>>> 9e7fd2260d998b32e14988aa7148a27e831f4db7
 # Logs
 logs
 *.log
